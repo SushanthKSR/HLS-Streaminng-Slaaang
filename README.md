@@ -24,3 +24,6 @@ If the network deteriorates, the player switches to a lower-quality stream to pr
 
 6. Seamless Playback
 By switching between streams dynamically, the user experiences continuous playback with minimal interruptions, even under fluctuating network conditions.
+
+
+### By Sushanth Kesamreddy
