@@ -1,9 +1,9 @@
-#Adaptive Bit Rate (ABR) Streaming
+# Adaptive Bit Rate (ABR) Streaming
 Adaptive Bit Rate (ABR) streaming is a technique used in video delivery that dynamically adjusts the quality of the video stream based on the user’s network conditions and device capabilities. It ensures smooth playback and optimizes the viewer's experience by balancing quality and loading speed.
 
 <img width="573" alt="Screenshot 2024-12-12 at 3 36 58 AM" src="https://github.com/user-attachments/assets/f6cb4076-a465-4151-9f75-04d95b415947" />
 
-##How It Works
+## How It Works
 1. Video Encoding
 The source video is encoded into multiple versions, each at a different quality and bitrate.
 Common encoding resolutions: 240p, 360p, 480p, 720p, 1080p, etc.
